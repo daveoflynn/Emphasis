@@ -1,3 +1,23 @@
+Emphasis for Confluence
+=======================
+
+Dave O'Flynn
+@daveoflynn
+
+
+Attaches itself to all <p> elements on a page.
+Cack-handedly converted from PrototypeJS to Atlassian jQuery.
+build.sh simply zips xml & js into something that looks like a JAR file.
+
+See license notice in js/emphasis-src.js
+
+Known Issues:
+ - sentence highlights are not removed
+
+
+Original README follows:
+
+
 Emphasis
 ========
 
