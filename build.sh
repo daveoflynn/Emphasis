@@ -1,0 +1,1 @@
+zip -R Emphasis.jar atlassian-plugin.xml ./js/*.js

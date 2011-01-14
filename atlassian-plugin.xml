@@ -1,0 +1,12 @@
+<atlassian-plugin key="emphasis-confluence" plugins-version="2">
+    <plugin-info>
+        <version>1</version>
+        <description>Creates bookmarkable anchors for paragraphs in Confluence</description>
+        <vendor name="dof, NYTimes"/>
+    </plugin-info>
+
+    <scoped-web-resource key="emphasis">
+        <resource type="download" name="emphasis-src.js" location="js/emphasis-src.js" />
+        <context>atl.general</context>
+    </scoped-web-resource>
+</atlassian-plugin>
